@@ -7,5 +7,9 @@ describe dept;
 insert into dept 
 values (2,'ammm' ,'emm' ,sysdate);
 
+
+insert into dept 
+values (3,'alaa' ,'alaa' ,sysdate);
+
 select *
 from dept;
